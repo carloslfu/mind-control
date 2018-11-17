@@ -1,0 +1,29 @@
+{
+  "name": "mind-control",
+  "version": "0.1.0",
+  "description": "Bringing mind-control to the web.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ups"
+  },
+  "files": [
+    "lib/",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloslfu/mind-control.git"
+  },
+  "keywords": [
+    "mind-control",
+    "javascript",
+    "joke",
+    "jsconf"
+  ],
+  "author": "@carloslfu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloslfu/mind-control/issues"
+  },
+  "homepage": "https://github.com/carloslfu/mind-control#readme"
+}
